@@ -1,3 +1,5 @@
+# Part of the [CursorCult](https://github.com/CursorCult)
+
 # RAII
 
 RAII (Resource Acquisition Is Initialization) enforces construction‑first correctness: objects acquire resources and establish invariants in the constructor so they are always ready‑to‑use afterward.
